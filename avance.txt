@@ -1,0 +1,4 @@
+Esto es un texto de prueba.
+Su objetivo es crear un conflicto.
+Git detectará el conflicto al hacer el merge.
+Deberás resolver el conflicto.
