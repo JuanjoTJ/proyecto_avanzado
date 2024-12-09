@@ -1,3 +1,4 @@
 Funcionalidades en desarrollo:
 ------------------------------
-
+[x] Añadida la rama feature/avances para las funcionalidades en desarrollo.
+[x] Creado el archivo avance.txt que incluirá un resumen de las funcionalidades en desarrollo.
