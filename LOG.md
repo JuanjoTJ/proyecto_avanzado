@@ -1,0 +1,19 @@
+Pasos llevados a cabo en la práctica:
+-------------------------------------
+- Creación del repositorio local "proyecto_avanzado".
+- Inicialización del repositorio local.
+- Creación del archivo README.md
+- Primer commit del proyecto.
+- Generación de par de claves SSH.
+- Conexión del repositorio con Github a través de SSH.
+- Renombramiento de la rama principal a "main".
+- Primer push al repositorio remoto.
+- Creación de la rama "feature/avances"
+- Creación del archivo "avance.txt" en la rama "feature/avances"
+- Commits con las modificaciones de "avance.txt".
+- Nuevo push para actualizar el repositorio remoto.
+- Resolución de clonflictos entre ramas.
+- Creación de un nuevo tag "v1.0" y su correspondiente push.
+- Clonación del repositorio remoto y su validación.
+- Añadido archivo "LOG.md" a la rama principal.
+- Cambio de en la visibilidad del repositorio (privado -> público).
